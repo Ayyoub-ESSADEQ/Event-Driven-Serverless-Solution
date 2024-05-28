@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Remove sensitive configuration parameters
+src/Shared/Configuration/*
+!src/Shared/Configuration/.gitkeep

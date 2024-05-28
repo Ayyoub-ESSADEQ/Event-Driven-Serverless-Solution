@@ -1,0 +1,5 @@
+{
+    "region": "YOUR_AWS_REGION",
+    "userPoolId": "YOUR_USER_POOL",
+    "clientId": "YOUR_CLIENT_ID"
+}
